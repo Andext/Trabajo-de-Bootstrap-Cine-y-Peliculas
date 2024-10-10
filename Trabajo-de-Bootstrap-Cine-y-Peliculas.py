@@ -9,7 +9,7 @@
     <style>
         /* Estilos personalizados */
         .hero {
-            background-image: url('https://www.example.com/cine-background.jpg'); /* Cambia la URL por una imagen de cine */
+            background-image: url('https://cine-background.jpg'); /* Cambia la URL por una imagen de cine */
             background-size: cover;
             background-position: center;
             height: 70vh;
@@ -71,7 +71,7 @@
     <div class="row">
         <div class="col-md-4">
             <div class="card">
-                <img src="https://www.example.com/pelicula1.jpg" class="card-img-top" alt="Película 1">
+                <img src="https://pelicula1.jpg" class="card-img-top" alt="Película 1">
                 <div class="card-body">
                     <h5 class="card-title">Película 1</h5>
                     <p class="card-text">Una obra maestra del cine que debes ver.</p>
@@ -80,7 +80,7 @@
         </div>
         <div class="col-md-4">
             <div class="card">
-                <img src="https://www.example.com/pelicula2.jpg" class="card-img-top" alt="Película 2">
+                <img src="https://pelicula2.jpg" class="card-img-top" alt="Película 2">
                 <div class="card-body">
                     <h5 class="card-title">Película 2</h5>
                     <p class="card-text">Una historia épica con un guión impecable.</p>
@@ -89,7 +89,7 @@
         </div>
         <div class="col-md-4">
             <div class="card">
-                <img src="https://www.example.com/pelicula3.jpg" class="card-img-top" alt="Película 3">
+                <img src="https://pelicula3.jpg" class="card-img-top" alt="Película 3">
                 <div class="card-body">
                     <h5 class="card-title">Película 3</h5>
                     <p class="card-text">Una película que ha dejado huella en la historia del cine.</p>
